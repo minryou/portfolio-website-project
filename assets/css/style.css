@@ -171,7 +171,7 @@ img {
 #contact .form-control {
     background-color: var(--color-base);
     border-color: var(--color-base);
-    color: var(--color-base);
+    color: white;
 }
 
 #contact .form-control:focus {
